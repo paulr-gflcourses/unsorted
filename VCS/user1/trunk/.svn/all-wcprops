@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/project1/!svn/ver/10/trunk
+END
+index3.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/project1/!svn/ver/6/trunk/index3.php
+END
+file1
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/project1/!svn/ver/11/trunk/file1
+END
+file2
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/project1/!svn/ver/10/trunk/file2
+END
+file3
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/project1/!svn/ver/10/trunk/file3
+END
+file4
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/project1/!svn/ver/10/trunk/file4
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/project1/!svn/ver/5/trunk/index.php
+END
